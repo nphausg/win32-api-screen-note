@@ -1,0 +1,3 @@
+EXPORTS
+fnInstallHook @1
+fnUnInstallHook @2

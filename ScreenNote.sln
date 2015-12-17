@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenNote", "ScreenNote\ScreenNote.vcxproj", "{7D702745-8FA2-4B46-849F-B9A528BB033E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenNoteHookDLL", "ScreenNoteHookDLL\ScreenNoteHookDLL.vcxproj", "{E5F572E3-3ACA-42DA-88F3-D607D73EBAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D702745-8FA2-4B46-849F-B9A528BB033E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D702745-8FA2-4B46-849F-B9A528BB033E}.Debug|Win32.Build.0 = Debug|Win32
+		{7D702745-8FA2-4B46-849F-B9A528BB033E}.Release|Win32.ActiveCfg = Release|Win32
+		{7D702745-8FA2-4B46-849F-B9A528BB033E}.Release|Win32.Build.0 = Release|Win32
+		{E5F572E3-3ACA-42DA-88F3-D607D73EBAEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5F572E3-3ACA-42DA-88F3-D607D73EBAEF}.Debug|Win32.Build.0 = Debug|Win32
+		{E5F572E3-3ACA-42DA-88F3-D607D73EBAEF}.Release|Win32.ActiveCfg = Release|Win32
+		{E5F572E3-3ACA-42DA-88F3-D607D73EBAEF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
